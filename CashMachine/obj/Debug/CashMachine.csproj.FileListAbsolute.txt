@@ -1,8 +1,0 @@
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\bin\Debug\CashMachine.exe.config
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\bin\Debug\CashMachine.exe
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\bin\Debug\CashMachine.pdb
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\obj\Debug\CashMachine.csproj.AssemblyReference.cache
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\obj\Debug\CashMachine.csproj.SuggestedBindingRedirects.cache
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\obj\Debug\CashMachine.csproj.CoreCompileInputs.cache
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\obj\Debug\CashMachine.exe
-C:\Users\Gvido\Desktop\Codelex\cash-machine\CashMachine\obj\Debug\CashMachine.pdb
